@@ -24,7 +24,8 @@
 #include "usart.h"
 #include "usb_otg.h"
 #include "gpio.h"
-
+#include "MPU6050.h"
+#include "stm32f4xx_hal.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
